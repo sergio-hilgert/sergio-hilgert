@@ -30,24 +30,24 @@
 <br/>
 <div>
   <a href="https://github.com/sergio-hilgert">
-    <img align="center" height="160em"
+    <img align="center" height="165em"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio-hilgert&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1118&layout=compact" />
   </a>
 </div>
 <div align="center">
   <a href="https://github.com/sergio-hilgert">
-    <img align="center" height="160em"
+    <img align="center" height="165em"
       src="https://github-readme-stats.vercel.app/api?username=sergio-hilgert&show_icons=true&include_all_commits=true&count_private=true&icon_color=dc8f04&hide_border=true&bg_color=0D1117&text_color=fff&title_color=fff" />
   </a>
   <a href="https://github.com/sergio-hilgert">
-    <img align="center" height="160em"
+    <img align="center" height="165em"
       src="https://github-readme-streak-stats.herokuapp.com/?user=sergio-hilgert&theme=black-ice&hide_border=true&stroke=0000&background=0D1118&ring=dc8f04&fire=dc8f04&currStreakLabel=dc8f04" />
   </a>
 </div>
 <br/>
 <div align="center">
   <a href="https://github.com/sergio-hilgert">
-    <img align="center" height="285em"
+    <img align="center" height="300em"
       src="https://activity-graph.herokuapp.com/graph?username=sergio-hilgert&hide_border=true&bg_color=0D1118&line=fff&point=dc8f04&theme=github" />
   </a>
 </div>
@@ -56,6 +56,6 @@
   <a href="https://github.com/sergio-hilgert">
     <img
       style="color:white"
-      src="https://github-profile-trophy.vercel.app/?username=sergio-hilgert&no-frame=true&margin-w=20&theme=darkhub"/>
+      src="https://github-profile-trophy.vercel.app/?username=sergio-hilgert&no-frame=true&margin-w=31&theme=darkhub"/>
   </a>
 </div>
