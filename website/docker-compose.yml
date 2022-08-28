@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  web:
+    tty: true
+    stdin_open: true
+    build:
+      dockerfile: Dockerfile
+    working_dir: /web
+    ports:
+      - 3000:3000
+    volumes:
+      - web-node-modules:/web/node_modules:delegated
+      - ./:/web:cached
+
+volumes:
+  web-node-modules:
