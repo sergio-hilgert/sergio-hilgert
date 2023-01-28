@@ -35,7 +35,7 @@
   </a>
   <a href="https://github.com/sergio-hilgert" target="_blank">
     <img align="center" height="168em" style="border-radius: 5px"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=sergio-hilgert&theme=github" />
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=sergio-hilgert&theme=github-compact" />
   </a>
 </div>
 <br/>
