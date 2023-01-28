@@ -30,12 +30,12 @@
 <br/>
 <div align="center">
   <a href="https://github.com/sergio-hilgert" target="_blank">
-    <img align="center" height="168em"
+    <img align="center" height="165em"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio-hilgert&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1118&layout=compact" />
   </a>
   <a href="https://github.com/sergio-hilgert" target="_blank">
-    <img align="center" height="168em" style="border-radius: 5px"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=sergio-hilgert&theme=github-compact" />
+    <img align="center" height="165em" style="border-radius: 5px"
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=sergio-hilgert&theme=github-compact&hide_border=true&hide_title=true" />
   </a>
 </div>
 <br/>
