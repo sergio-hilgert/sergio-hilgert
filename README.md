@@ -35,7 +35,7 @@
   </a>
   <a href="https://github.com/sergio-hilgert" target="_blank">
     <img align="center" height="168em" style="border-radius: 5px"
-      src="https://activity-graph.herokuapp.com/graph?username=sergio-hilgert&hide_border=true&bg_color=0D1118&line=fff&point=dc8f04&theme=github" />
+      src="https://github-readme-activity-graph.cyclic.app/graph?username=sergio-hilgert&theme=github" />
   </a>
 </div>
 <br/>
