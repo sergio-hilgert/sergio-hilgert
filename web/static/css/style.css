@@ -1180,6 +1180,12 @@ mark {
   }
 }
 
+@media (max-width: 992px) {
+  .home-xterm {
+    display: none;
+  }
+}
+
 .home-banner .hb-img img {
   min-width: 450px;
   min-height: 450px;
