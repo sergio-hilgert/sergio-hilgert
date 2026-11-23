@@ -1,59 +1,42 @@
-
-<a href="http://sergiohilgert.com" target="_blank">
-  <div align="center">
-    <img alt="Sergio Hilgert" src="assets/sergio.hilgert.png" />
-  </div>
+<a href="https://sergiohilgert.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+    <img src="assets/banner-light.svg" width="100%" alt="Sérgio Hilgert: Software Engineer, São José dos Campos, Brazil">
+  </picture>
 </a>
-<div align="center">
-  <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=ruby&text=false&fill=0d1118&svgfill=cc0000" alt="Ruby">
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&fill=0d1118&svgfill=5E97D0" alt="C++">
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=node.js&text=false&fill=0d1118&svgfill=659b60" alt="Node JS">
-  </a>
-  <a href="https://elixir-lang.org/" target="_blank">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=elixir&text=false&fill=0d1118&svgfill=811eb6" alt="Elixir">
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=amazonaws&text=false&fill=0d1118&svgfill=FF9900" alt="AWS">
-  </a>
-  <a href="https://github.com/vim/vim" target="_blank">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&fill=0d1118&svgfill=029031&" alt="Vim">
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://readme-components.vercel.app/api?component=logo&logo=kubernetes&text=false&fill=0d1118&svgfill=326ce5&animation=spin" alt="Kubernets">
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/sergio-hilgert" target="_blank">
-    <img align="center" height="165em"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=sergio-hilgert&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1118&layout=compact" />
-  </a>
-  <a href="https://github.com/sergio-hilgert" target="_blank">
-    <img align="center" height="165em" style="border-radius: 5px"
-      src="https://github-readme-activity-graph.cyclic.app/graph?username=sergio-hilgert&theme=github-compact&hide_border=true&hide_title=true" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/sergio-hilgert" target="_blank">
-    <img align="center" height="165em"
-      src="https://github-readme-stats.vercel.app/api?username=sergio-hilgert&show_icons=true&include_all_commits=true&count_private=true&icon_color=dc8f04&hide_border=true&bg_color=0D1117&text_color=fff&title_color=fff" />
-  </a>
-  <a href="https://github.com/sergio-hilgert" target="_blank">
-    <img align="center" height="165em"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=sergio-hilgert&theme=black-ice&hide_border=true&stroke=0000&background=0D1118&ring=dc8f04&fire=dc8f04&currStreakLabel=dc8f04" />
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/sergio-hilgert" target="_blank">
-    <img
-      style="color:white"
-      src="https://github-profile-trophy.vercel.app/?username=sergio-hilgert&no-frame=true&margin-w=14&theme=darkhub"/>
-  </a>
-</div>
+
+<p align="center">
+  I build and scale backend systems, mostly in Ruby on Rails.<br>
+  Software Engineer at <a href="https://github.com/tech-lia">@tech-lia</a>.
+</p>
+
+<p align="center">
+  <a href="https://www.ruby-lang.org/en/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/ruby-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/ruby-light.svg"><img src="assets/ruby-light.svg" width="72" alt="Ruby"></picture></a>
+  <a href="https://rubyonrails.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/rubyonrails-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/rubyonrails-light.svg"><img src="assets/rubyonrails-light.svg" width="72" alt="Ruby on Rails"></picture></a>
+  <a href="https://elixir-lang.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/elixir-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/elixir-light.svg"><img src="assets/elixir-light.svg" width="72" alt="Elixir"></picture></a>
+  <a href="https://nodejs.org/en/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nodejs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/nodejs-light.svg"><img src="assets/nodejs-light.svg" width="72" alt="Node.js"></picture></a>
+  <a href="https://isocpp.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cpp-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/cpp-light.svg"><img src="assets/cpp-light.svg" width="72" alt="C++"></picture></a>
+  <a href="https://www.postgresql.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/postgresql-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/postgresql-light.svg"><img src="assets/postgresql-light.svg" width="72" alt="PostgreSQL"></picture></a>
+  <a href="https://kubernetes.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/kubernetes-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/kubernetes-light.svg"><img src="assets/kubernetes-light.svg" width="72" alt="Kubernetes"></picture></a>
+  <a href="https://aws.amazon.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/aws-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/aws-light.svg"><img src="assets/aws-light.svg" width="72" alt="AWS"></picture></a>
+  <a href="https://www.terraform.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/terraform-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/terraform-light.svg"><img src="assets/terraform-light.svg" width="72" alt="Terraform"></picture></a>
+  <a href="https://www.vim.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/vim-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/vim-light.svg"><img src="assets/vim-light.svg" width="72" alt="Vim"></picture></a>
+</p>
+
+<h3 align="center">Projects</h3>
+
+<p align="center">
+  <a href="https://squad.reviews"><b>Squad Reviews</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://squad.reviews"><code>squad.reviews</code></a><br>
+  Tools for developers and managers: live retrospectives, team health checks and a whiteboard, in one place.
+</p>
+
+<p align="center">
+  <a href="https://sergiohilgert.com"><b>sergiohilgert.com</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/sergio-hilgert"><b>LinkedIn</b></a>
+  &nbsp;·&nbsp;
+  <a href="mailto:contato@sergiohilgert.com"><b>E-mail</b></a>
+</p>

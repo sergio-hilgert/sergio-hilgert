@@ -1,3 +1,8 @@
-88070b # red
-dc8f04 # yellow
-0d1118 # background
+# Verdigris (light / dark)
+ffffff / 0d1415 # background
+f1f6f6 / 152022 # surface
+d0dcdc / 29393c # border
+132022 / e2ecea # text
+4d5f61 / 94a7a7 # muted text
+0b7167 / 4cc4b3 # accent (verdigris)
+25445c / a3c1d8 # secondary (slate)
